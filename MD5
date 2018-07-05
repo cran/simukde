@@ -1,0 +1,11 @@
+adaa8d8b6611c04a0442d3b275967af7 *DESCRIPTION
+d32239bcb673463ab874e80d47fae504 *LICENSE
+70bbbf39d38709159aaa3554fdfdc60e *NAMESPACE
+eabf6a355a83cf8581c50b35db2bd406 *R/functions.R
+d384e6a8a1b29a70cf733ec7495f66d0 *R/simukde.R
+2c84cef5c514ba8ac32ed451c880ae48 *README.md
+5d2a27ce2dd7e51a83ec883868f098bd *inst/CITATION
+dc02123e6d205b83d5ffc5dffb0181eb *man/simukde.Rd
+e679277eb8c165a8258d5d60160d1846 *man/simulate_kde.Rd
+5853bc3fd05c2acebce011063beb8ab3 *tests/testthat.R
+663459447db5c1afd9b3a1a151e27213 *tests/testthat/test-simulate_kde.R
