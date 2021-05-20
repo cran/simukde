@@ -35,7 +35,7 @@ par(mfrow = c(1, 1))
 ## 2-dimensional data
 data(faithful)
 res <- simukde::simulate_kde(x = faithful, n = 100)
-plot(res$kde, display = "filled.contour2")
+plot(res$kde, display = "filled.contour")
 points(x = res$random.values, cex = 0.25, pch = 16, col = "green")
 points(x = faithful, cex = 0.25, pch = 16, col = "black")
 ```
